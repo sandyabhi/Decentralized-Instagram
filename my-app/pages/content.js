@@ -6,7 +6,7 @@ import { Card } from "../components/Card";
 import Layout from "../components/Layout";
 import { CONTRACT_ADDRESS, abi } from "../constants";
 
-function content() {
+function Content() {
   const [loading, setLoading] = useState(false);
   const [walletConnected, setWalletConnected] = useState(false);
   const [postdata, setPostdata] = useState("");
@@ -116,4 +116,4 @@ function content() {
   );
 }
 
-export default content;
+export default Content;

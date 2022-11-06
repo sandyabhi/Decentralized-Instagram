@@ -6,7 +6,7 @@ import { ProfileCard } from "../components/ProfileCard";
 import Layout from "../components/Layout";
 import { CONTRACT_ADDRESS, abi } from "../constants";
 
-function profile() {
+function Profile() {
   const [loading, setLoading] = useState(false);
   const [walletConnected, setWalletConnected] = useState(false);
   const [postdata, setPostdata] = useState("");
@@ -125,4 +125,4 @@ function profile() {
   );
 }
 
-export default profile;
+export default Profile;
