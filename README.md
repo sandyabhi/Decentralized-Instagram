@@ -3,7 +3,7 @@
 * Decentralized Instagram Clone built on top of the Polygon network, allows users to create, share and view images.
 
 ## Links:
-* [LIVE Vercel](https://decentralized-instagram-snowy.vercel.app)
+* [LIVE Vercel (prefer this one to test)](https://decentralized-instagram-snowy.vercel.app)
 * [LIVE Spheron Filecoin](https://decentralized-instagram-851cd4.spheron.app)
 * [polygonscan](https://mumbai.polygonscan.com/address/0xafA7AA3B5680293521b98552B234cb93B8BD3a53)
 * [VIDEO](https://vimeo.com/767750796)
