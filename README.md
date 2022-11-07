@@ -35,6 +35,7 @@
 * IPFS(Web3Storage) for storing images.
 * Spheron to deploy on filecoin
 * Polygon Mumbai to deploy and verify the smart contract.
+* Tailwind CSS for styling
 * Hardhat to build and deploy the smart contract.
 * Quicknode
 * ethers, web3modal, axios
