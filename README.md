@@ -3,6 +3,8 @@
 * Decentralized Instagram Clone built on top of the Polygon network, allows users to create, share and view images.
 
 ## Links:
+* [DevFolio](https://devfolio.co/projects/kalakriti-5f19)
+* [Ur-Hackathon-Certificate](https://certificate.givemycertificate.com/c/0f63f5b1-4eb4-43a3-a4d0-29484f209113)
 * [LIVE Vercel (prefer this one to test)](https://decentralized-instagram-snowy.vercel.app)
 * [LIVE Spheron Filecoin](https://decentralized-instagram-851cd4.spheron.app)
 * [polygonscan](https://mumbai.polygonscan.com/address/0xafA7AA3B5680293521b98552B234cb93B8BD3a53)
@@ -10,11 +12,11 @@
 
 ## Demo:
 
-* First connect metamask wallet (mumbai network) if not connected on clicking **connect wallet** button.
+* First connect Metamask wallet (Mumbai network) if not connected on clicking **connect wallet** button.
 
 ![Imgur](https://i.imgur.com/C6G7rqX.jpg)
 
-* User can see all the posts made by all the accounts and can tip the posts made by other account by cannot tip their own post.
+* Users can see all the posts made by all the accounts and can tip the posts made by other accounts by cannot tip their own post.
 
 ![Imgur](https://i.imgur.com/XbUHcwq.jpg)
 
